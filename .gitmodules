@@ -4,6 +4,3 @@
 [submodule "Buildroot_course/assignment-2-Piistachyoo"]
 	path = Buildroot_course/assignment-2-Piistachyoo
 	url = git@github.com:cu-ecen-aeld/assignment-2-Piistachyoo.git
-[submodule "Buildroot_course/assignments-3-and-later-Piistachyoo"]
-	path = Buildroot_course/assignments-3-and-later-Piistachyoo
-	url = git@github.com:cu-ecen-aeld/assignments-3-and-later-Piistachyoo.git
