@@ -13,3 +13,15 @@
 [submodule "Buildroot_course/assignment-5-Piistachyoo"]
 	path = Buildroot_course/assignment-5-Piistachyoo
 	url = git@github.com:cu-ecen-aeld/assignment-5-Piistachyoo.git
+[submodule "Yocto_course/assignment-6-Piistachyoo"]
+	path = Yocto_course/assignment-6-Piistachyoo
+	url = https://github.com/cu-ecen-aeld/assignment-6-Piistachyoo
+[submodule "Yocto_course/assignment-7-Piistachyoo"]
+	path = Yocto_course/assignment-7-Piistachyoo
+	url = https://github.com/cu-ecen-aeld/assignment-7-Piistachyoo
+[submodule "Yocto_course/assignment-8-Piistachyoo"]
+	path = Yocto_course/assignment-8-Piistachyoo
+	url = https://github.com/cu-ecen-aeld/assignment-8-Piistachyoo
+[submodule "Yocto_course/assignment-9-Piistachyoo"]
+	path = Yocto_course/assignment-9-Piistachyoo
+	url = https://github.com/cu-ecen-aeld/assignment-9-Piistachyoo
